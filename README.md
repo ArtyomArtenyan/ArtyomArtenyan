@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/header.svg" alt="Oryvenx — Software Developer. React, TypeScript and Next.js." width="100%" />
+</p>
 
-<!--
-**ArtyomArtenyan/ArtyomArtenyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am **Oryvenx**. I build web interfaces and fullstack applications with **React, TypeScript, and Next.js**. My projects explore interactive UI, application state, authentication, and database integration.
 
-Here are some ideas to get you started:
+I'm also developing my approach to **AI-assisted engineering**, with a focus on understanding generated code, reviewing changes, and verifying behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+**Frontend** · React · TypeScript · JavaScript · Next.js · Tailwind CSS  
+**Application development** · PostgreSQL · Supabase · Prisma · Clerk · Better Auth  
+**Tools** · Git · Vite · ESLint
+
+### Selected projects
+
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Plany](https://github.com/ArtyomArtenyan/plany-app) · [Demo](https://plany-app-amber.vercel.app/) | Kanban boards, task management, drag and drop, and database persistence | Next.js · TypeScript · Supabase · Clerk |
+| [Fitness Rachel](https://github.com/ArtyomArtenyan/fitness-rachel) · [Demo](https://fitness-rachel.vercel.app/) | Reusable page sections, motion, and an image comparison slider | React · TypeScript · Tailwind CSS |
+| [Memory Nexus](https://github.com/ArtyomArtenyan/Memory-Nexus) · [Demo](https://memory-nexus-pearl.vercel.app/) | Matching logic, move tracking, and CSS card animations | React · JavaScript · Tailwind CSS |
+
+### In progress
+
+[Omni](https://github.com/ArtyomArtenyan/Omni-second-brain) — a knowledge workspace application. Authentication and workspace management are implemented; document ingestion and AI chat are planned.
+
+### Connect
+
+Explore my work on [GitHub](https://github.com/ArtyomArtenyan). For project-specific questions, please use the relevant repository's Issues tab where available.
