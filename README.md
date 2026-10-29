@@ -2,11 +2,7 @@
   <img src="assets/header.svg" alt="Oryvenx — Software Developer. React, TypeScript and Next.js." width="100%" />
 </p>
 
-Hi, I am **Oryvenx**. I build web interfaces and fullstack applications with **React, TypeScript, and Next.js**. My projects explore interactive UI, application state, authentication, and database integration.
 
-I'm also developing my approach to **AI-assisted engineering**, with a focus on understanding generated code, reviewing changes, and verifying behavior.
-
-### Stack
 
 **Frontend** · React · TypeScript · JavaScript · Next.js · Tailwind CSS  
 **Application development** · PostgreSQL · Supabase · Prisma · Clerk · Better Auth  
